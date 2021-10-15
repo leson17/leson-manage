@@ -1,0 +1,19 @@
+{
+  "name": "leson-manage",
+  "version": "1.0.0",
+  "description": "管理后台项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leson17/leson-manage.git"
+  },
+  "author": "leson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leson17/leson-manage/issues"
+  },
+  "homepage": "https://github.com/leson17/leson-manage#readme"
+}
